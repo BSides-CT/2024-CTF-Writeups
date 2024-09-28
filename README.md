@@ -3,14 +3,14 @@
 Thank you to everyone who participated in the CTF this year! We were super happy with participation and were very impressed by how everyone did. Hope you all are looking forward to a really good time at BSidesCT 2025 next year!
 
 We had challenges in the following categories:
-- Badge
-- OSINT
-- Cryptography
-- Forensics
-- Reverse
-- Steganography
-- Web
-- Misc
+- [Badge](./badge)
+- [OSINT](./osint)
+- [Cryptography](./crypto)
+- [Forensics](./forensics)
+- [Reverse](./reverse)
+- [Steganography](./steg)
+- [Web](./web)
+- [Misc](./misc)
 
 Huge shoutout to everyone who helped put challenges together this year across all categories!
 
